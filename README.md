@@ -1,14 +1,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&background=FFFFFF9C&random=false&width=435&lines=Ol%C3%A1%2C+sou+Kauan+Lobo" alt="Typing SVG" /></a>
 ## 💻 Ferramentas e Tecnologias
- ## 
-## 💻: Sobre Mim
 <div>
   <img src="https://img.shields.io/badge/HTML5-f56320?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
   <img src="https://img.shields.io/badge/CSS3-2079f5?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
   <img src="https://img.shields.io/badge/JavaScript-d0d02f?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
   <img src="https://img.shields.io/badge/Github-1a1e21?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
-
+ 
+## 💻: Sobre Mim
 <div>
   <p> Estudante de programação e tecnologia!</p>
 </div>
